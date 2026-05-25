@@ -5,7 +5,7 @@ An innovative Augmented Reality (AR) mobile application designed to bridge the g
 ---
 
 ## 📺 Project Demo & Flow Visuals
-* 🔗 **[Click Here to Watch the Presentation and Demo Video](https://drive.google.com/file/d/1rtHed5skU7V14d1o-H_SpHN3xNoJyMGx/view?usp=sharing)**
+* 🔗 **[Click Here to Watch the  Demo Video](https://drive.google.com/file/d/1rtHed5skU7V14d1o-H_SpHN3xNoJyMGx/view?usp=sharing)**
 
 
 ---
