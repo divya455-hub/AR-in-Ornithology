@@ -6,6 +6,11 @@ An innovative Augmented Reality (AR) mobile application designed to bridge the g
 
 ## 📺 Project Demo & Flow Visuals
 * 🔗 **[Click Here to Watch the  Demo Video](https://drive.google.com/file/d/1rtHed5skU7V14d1o-H_SpHN3xNoJyMGx/view?usp=sharing)**
+  <img width="500" height="500" alt="WhatsApp Image 2026-05-25 at 19 55 38" src="https://github.com/user-attachments/assets/3757ac2c-542c-426f-86c8-2ed3bb2e5a15" />
+  <img width="500" height="500" alt="WhatsApp Image 2026-05-25 at 19 55 37" src="https://github.com/user-attachments/assets/a75b65b0-2509-4ff3-ad53-a3e3166d1ee9" />
+<img width="500" height="500" alt="WhatsApp Image 2026-05-25 at 19 55 37 (1)" src="https://github.com/user-attachments/assets/af227add-a64a-4e13-911b-23a83f29fcdd" />
+
+
 
 
 ---
@@ -18,7 +23,8 @@ Learning bird identification in ornithology is highly challenging due to absolut
 ## 🛠️ Key App Feature Layout (MVP)
 * **AR Plane Detection:** Dynamically scans spatial rooms or surfaces to calculate physical bounds using the mobile device camera.
 * **Interactive 3D Placement:** Places high-fidelity 3D bird models inside the detected real-world natural habitat spaces.
-* **Multi-Touch Gestures:** Intuitive user interaction setup supporting interactive 3D rotations and zooming scales to trace bird anatomy closely.
+* **Multi-Touch Gestures:** Intuitive user interaction setup supporting interactive 3D rotations to trace bird features![Uploading WhatsApp Image 2026-05-25 at 19.55.38.jpeg…]()
+ closely.
 * **Bird Calls Integration:** Features real-time audio libraries triggering realistic bird sounds/calls to optimize acoustic identification metrics.
 * **Informational Overlays (UI):** Informative UI overlay panels displaying descriptive data sets about species names, behavior layouts, and regional habitats.
 
