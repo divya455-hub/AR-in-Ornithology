@@ -47,12 +47,4 @@ The application flow executes through structured state-machine phases:
 * `Packages/` — Target system dependencies managing structural AR subsystems.
 * `ProjectSettings/` — Input controls, spatial physics layer limits, and deployment presets.
 
----
 
-## 🚀 How to Run and Deploy
-1. Ensure your local machine has Git LFS configured, then clone the setup:
-   ```bash
-   git clone https://github.com
-   ```
-2. Open the source directory inside **Unity Hub**.
-3. Go to `Build Settings`, switch target platform to `Android`, verify your `ARCore` plugin checklist is active, and click **Build and Run**.
